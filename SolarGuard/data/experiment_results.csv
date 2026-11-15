@@ -1,0 +1,4 @@
+timestamp,data_source,cooling_config,reference_panel_temp_c,cooled_panel_temp_c,cooling_assembly_temp_c,temp_reduction_c,avg_power_w,dust_coverage_avg_pct,selected_zones,notes
+2026-11-14T09:15:00,SIMULATION,Uncooled Baseline,51.4,51.4,29.8,0.0,3.42,25.3,0101,No thermal heatsink attached (ambient 29.8 C)
+2026-11-14T09:30:00,SIMULATION,Aluminum Fin Passive Heatsink,51.4,45.8,39.4,5.6,3.88,25.3,0101,Passive rear fin array bonded with thermal pad
+2026-11-14T09:45:00,SIMULATION,Forced-Air 5V Micro Fan + Fins,51.4,41.2,35.6,10.2,4.31,5.8,0000,Selective cleaning complete + active cooling trial

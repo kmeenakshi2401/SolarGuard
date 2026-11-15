@@ -1,0 +1,3 @@
+timestamp,data_source,observation_period_min,irradiance_wm2,reference_energy_wh,improved_energy_wh,additional_energy_wh,cleaning_energy_wh,controller_energy_wh,total_consumption_wh,net_energy_benefit_wh,balance_status,notes
+2026-11-14T09:45:00,SIMULATION,60.0,820,3.6200,4.4805,0.8605,0.0820,0.1450,0.2270,0.6335,POSITIVE,Selective 2-zone cleaning (Zones 2 & 4) vs uncleaned reference under 820 W/m2
+2026-11-14T10:45:00,SIMULATION,60.0,780,3.4100,4.1950,0.7850,0.0820,0.1450,0.2270,0.5580,POSITIVE,Selective 2-zone cleaning + passive fin cooling comparison

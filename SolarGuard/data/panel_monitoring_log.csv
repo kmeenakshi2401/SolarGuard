@@ -1,0 +1,4 @@
+timestamp,panel_id,z1_dust_pct,z2_dust_pct,z3_dust_pct,z4_dust_pct,humidity_pct,rain_status,ldr_reading,panel_temp_c,voltage_v,current_a,power_w,weather_classification,cleaning_eligibility,selected_zones,cleaning_request_status,actual_eds_status,before_cleaning_dust_pct,after_cleaning_dust_pct,cleaning_efficiency_pct,cleaning_energy_wh,net_energy_benefit_wh
+2026-11-14T10:15:00,Panel 1,5.0,32.0,8.0,45.0,54.0,Dry (No Rain),82.0,47.5,5.94,0.66,3.9204,Dry & Hot,Permitted,0101,CLEANING_COMPLETED,SIMULATION,22.5,4.8,78.67,0.0040,0.4180
+2026-11-14T10:15:00,Panel 2,10.0,12.0,38.0,6.0,54.0,Dry (No Rain),82.0,46.8,6.05,0.70,4.2350,Dry & Hot,Permitted,0010,CLEANING_COMPLETED,SIMULATION,16.5,4.1,75.15,0.0020,0.3420
+2026-11-14T10:15:00,Panel 3,4.0,7.0,9.0,11.0,54.0,Dry (No Rain),82.0,45.2,6.24,0.75,4.6800,Dry & Hot,Not Required,0000,IDLE,SIMULATION,7.75,7.75,0.00,0.0000,0.0000

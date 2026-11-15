@@ -1,0 +1,8 @@
+{
+  "name": "SolarGuard",
+  "description": "An Integrated Self-Cleaning and Self-Cooling Solar Panel",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
